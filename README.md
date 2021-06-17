@@ -3,7 +3,9 @@ Vehicle Detection And Counting projrct using numpy and  OpenCV
 
 In This project there are mainly three parts 
 1. Detector
+ 
 2.Tracker
+
 3.Counter
   
 What is the purpose of making this project?
