@@ -9,5 +9,7 @@ In This project there are mainly three parts
 What is the purpose of making this project?
 
 1.Traffic management and planning
+
 2.Parking management system
+
 3.Traffic Control
